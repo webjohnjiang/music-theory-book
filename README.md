@@ -1,25 +1,13 @@
-# 一本乐理书
+# 一本真正的乐理书
 
-## Getting Super Powers
+## 作者
 
-Becoming a super hero is a fairly straight forward process:
+* sheldoncui, 一枚喜欢音乐的前端工程师.
+* more, nothing.
 
-```
-$ give me super-powers
-```
+## 更新历史
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+* 2021-04-19, gitbook 第一次初始化.
 
-Once you're strong enough, save the world:
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-这是一本写给理科生的乐理书
 
