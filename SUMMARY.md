@@ -10,10 +10,10 @@
 
 ## 理解声音
 
-* [震动](li-jie-sheng-yin/untitled.md)
+* [发声原理](li-jie-sheng-yin/untitled.md)
+* [音高](li-jie-sheng-yin/yin-gao.md)
 * [纯音](li-jie-sheng-yin/untitled-3.md)
 * [泛音](li-jie-sheng-yin/untitled-1.md)
-* [音高](li-jie-sheng-yin/yin-gao.md)
 * [音色的原理](li-jie-sheng-yin/yin-se-de-yuan-li.md)
 
 ## 音乐的本质
@@ -24,6 +24,7 @@
 * [和声](yin-le-de-ben-zhi/he-sheng.md)
 * [调式](yin-le-de-ben-zhi/tiao-shi.md)
 * [调性](yin-le-de-ben-zhi/tiao-xing.md)
+* [视唱练耳](yin-le-de-ben-zhi/shi-chang-lian-er.md)
 
 ## 和弦理论
 
@@ -33,13 +34,17 @@
 
 ## 吉他学习
 
-* [学习路线](ji-ta-xue-xi/xue-xi-zi-shi-fen-xiang.md)
-* [左右手练习](ji-ta-xue-xi/zuo-you-shou-lian-xi.md)
-* [C调和弦按法](ji-ta-xue-xi/ji-ben-jie-zou-xing-lian-xi.md)
-* [弹唱一首](ji-ta-xue-xi/tan-chang-yi-shou.md)
-* [节奏型训练](ji-ta-xue-xi/jie-zou-xing-xun-lian.md)
-* [琴弦上的音程](ji-ta-xue-xi/qin-xian-shang-de-yin-cheng.md)
-* [万能和弦](ji-ta-xue-xi/wan-neng-he-xian.md)
+* [入门:学习路线](ji-ta-xue-xi/xue-xi-zi-shi-fen-xiang.md)
+* [入门:左右手练习](ji-ta-xue-xi/zuo-you-shou-lian-xi.md)
+* [入门:C大调和弦按法](ji-ta-xue-xi/ji-ben-jie-zou-xing-lian-xi.md)
+* [入门:弹唱一首](ji-ta-xue-xi/tan-chang-yi-shou.md)
+* [入门:节奏型训练](ji-ta-xue-xi/jie-zou-xing-xun-lian.md)
+* [入门:再弹一首](ji-ta-xue-xi/ru-men-zai-tan-yi-shou.md)
+* [入门:优化演奏效果](ji-ta-xue-xi/ru-men-you-hua-yan-zou-xiao-guo.md)
+* [进阶:指板上的音程](ji-ta-xue-xi/qin-xian-shang-de-yin-cheng.md)
+* [进阶:万能和弦](ji-ta-xue-xi/wan-neng-he-xian.md)
+* [进阶:定调扒谱](ji-ta-xue-xi/jin-jie-ding-tiao-ba-pu.md)
+* [进阶:即兴伴奏](ji-ta-xue-xi/jin-jie-ji-xing-ban-zou.md)
 
 ## 写歌编曲
 

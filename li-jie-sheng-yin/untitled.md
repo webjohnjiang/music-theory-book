@@ -1,4 +1,4 @@
-# 震动
+# 发声原理
 
 ## Getting Super Powers
 
